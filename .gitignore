@@ -8,7 +8,9 @@ desktop.ini
 
 # Report files
 *.mop
-*Report).txt
+*.txt
+*.csv
+*.md
 
 # Production files
 *.gbr
